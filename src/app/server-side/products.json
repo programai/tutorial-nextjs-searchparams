@@ -1,0 +1,42 @@
+[
+  {
+    "cat": "eletronicos",
+    "name": "Smartphone"
+  },
+  {
+    "cat": "eletronicos",
+    "name": "Laptop"
+  },
+  {
+    "cat": "eletronicos",
+    "name": "Tablet"
+  },
+  {
+    "cat": "eletronicos",
+    "name": "Smartwatch"
+  },
+  {
+    "cat": "eletronicos",
+    "name": "Headphones"
+  },
+  {
+    "cat": "livros",
+    "name": "Fiction Novel"
+  },
+  {
+    "cat": "livros",
+    "name": "Science Book"
+  },
+  {
+    "cat": "livros",
+    "name": "History Book"
+  },
+  {
+    "cat": "livros",
+    "name": "Biography"
+  },
+  {
+    "cat": "livros",
+    "name": "Fantasy Novel"
+  }
+]
